@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Epic Designs",
+        "ratings": [1, 1, 1, 0.5, 0],
+        "description": "Passionate team of 4 designers working out of Bangalore with an experience of 4 years.",
+        "stats": {
+        "projects": 57,
+        "years": 8,
+        "price": "$$"
+        },
+        "phoneNumbers": ["+91 - 9845322853", "+91 - 9845322854"]
+    },
+    {
+        "name": "Epic Designs 2",
+        "ratings": [1, 1, 1,  1, 0.5],
+        "description": "test Passionate team of 4 designers working out of Bangalore with an experience of 4 years.",
+        "stats": {
+        "projects": 43,
+        "years": 6,
+        "price": "$$$"
+        },
+        "phoneNumbers": ["+91 - 9845322853", "+91 - 9845322854"]
+    },
+    {
+        "name": "Epic Designs 3",
+        "ratings": [1, 1, 1, 0, 0],
+        "description": "Passionate team of 4 designers working out of Bangalore with an experience of 4 years.",
+        "stats": {
+        "projects": 43,
+        "years": 5,
+        "price": "$$"
+        },
+        "phoneNumbers": ["+91 - 9845322853", "+91 - 9845322854"]
+    }
+]
+  
