@@ -67,7 +67,7 @@ const printStar = (rates)=>{
     return opt
 }
 
-fetch('http://localhost:5000/')
+fetch('http://beena8457.pythonanywhere.com/')
     .then(response=>response.json())
     .then(datas=>{
         const newDiv = document.getElementById('insertion')
